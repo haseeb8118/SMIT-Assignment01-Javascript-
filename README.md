@@ -1,0 +1,1 @@
+# SMIT-Assignment01-Javascript-
